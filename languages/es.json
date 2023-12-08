@@ -1,18 +1,18 @@
 {
   "about": {
     "buttonCV": "Descargar CV",
-    "description": "Vivo en el estado de Guanajuato en México, me especializo en JavaScript, React y TailwindCSS para crear hermosas experiencias de usuario. Me encanta resolver problemas, afrontar nuevos retos y alcanzar objetivos.<br><br>También tengo 8 años de experiencia trabajando como técnico de mantenimiento. Tengo un título en ingeniería en tecnologías de la información.<br><br>Algunas palabras que me describen: proactivo, perseverante, trabajador en equipo. Siempre estoy en formación, actualmente estoy aprendiendo AWS y Astro. Me encanta el fútbol, los videojuegos y la tecnología.",
+    "description": "Vivo en Montreal en Canadá, especializado en JavaScript, React y TailwindCSS para crear hermosas experiencias de usuario. Me encanta resolver problemas, afrontar nuevos retos y alcanzar objetivos. Tener una licenciatura en informática. Algunas palabras que me describen: proactiva, perseverante, resolutiva, adaptable, jugadora de equipo. Siempre estoy en formación, actualmente aprendiendo IA. Me encanta el fútbol, los videojuegos y la tecnología.",
     "textAbout1": "Año Dev",
     "textAbout2": "Proyectos",
     "textAbout3": "Certificaciones"
   },
   "contact": {
     "contact": "Contacto",
-    "description": "Contáctame para empezar con el desarrollo de tu proyecto <b>asilvazavala@gmail.com</b>",
+    "description": "Contáctame para empezar con el desarrollo de tu proyecto <b>adolf119ok@protonmail.com</b>",
     "title": "¡Hablémos!"
   },
   "footer": {
-    "copyright": "Creado por Antonio Silva (2023) &#169;",
+    "copyright": "Creado por David Cole (2023) &#169;",
     "githubButton": "Sígueme",
     "githubDescription1": "Consulta mis repositorios sobre los proyectos que he creado.",
     "linkedinButton": "Contáctame",
@@ -25,7 +25,7 @@
   },
   "hero": {
     "alert": "¡Gracias por tu visita! ❤️",
-    "name": "Hola, soy Antonio Silva",
+    "name": "Hola, soy David Cole",
     "occupation": "Desarrollador Front-end"
   },
   "navbar": {
